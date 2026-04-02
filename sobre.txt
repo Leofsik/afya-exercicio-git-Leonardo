@@ -1,1 +1,3 @@
 "Leonardo" 
+"Idade: 25" 
+"Meta: Aprender React" 
